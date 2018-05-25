@@ -1,0 +1,42 @@
+{
+    "defaults": {
+        "jsConfig": {
+            "appName": "creditoMaestroCRM",
+            "productName": "creditoMaestroCRM",
+            "brandName": "creditoMaestroCRM",
+            "appBuild": "1",
+            "appVersion": "1.0.0",
+            "files": {
+                "resizeImagesOnUpload": 800
+            },
+            "about": {
+                "privacy": "http://creditomaestrocrm.com/mobile_privacy",
+                "tos": "http://creditomaestrocrm.com/mobile_tos",
+                "support": "support.creditomaestrocrm.com",
+                "supportEmail": "support@creditomaestrocrm.com",
+                "copyrightText": "Copyright © 2017 creditoMaestroCRMCRM Inc. All Rights Reserved.",
+                "trademarkText": "creditoMaestroCRM and creditoMaestroCRMCRM are trademarks owned by creditoMaestroCRMCRM Inc. All other trademarks are the property of their respective owners."
+            }
+        },
+        "native": {
+            "ios": {
+                "binaryName": "creditoMaestroCRM",
+                "teamId": ""
+            },
+            "android": {
+                "binaryName": "creditoMaestroCRMCRM"
+            }
+        }
+    },
+    "store": {
+        "native": {
+            "android": {
+                "signingKey": {
+                    "keystore": "",
+                    "storepass": "",
+                    "alias": ""
+                }
+            }
+        }
+    }
+}
