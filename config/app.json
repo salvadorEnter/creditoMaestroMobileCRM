@@ -1,13 +1,13 @@
 {
     "defaults": {
         "jsConfig": {
-            "appName": "creditoMaestroCRM",
+            "appName": "Sugar Crédito Maestro",
             "productName": "creditoMaestroCRM",
             "brandName": "creditoMaestroCRM",
             "appBuild": "1",
             "appVersion": "1.0.0",
             "files": {
-                "resizeImagesOnUpload": 800
+                "resizeImagesOnUpload": 1200
             },
             "about": {
                 "privacy": "http://creditomaestrocrm.com/mobile_privacy",
