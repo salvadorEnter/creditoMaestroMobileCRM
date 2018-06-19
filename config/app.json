@@ -2,8 +2,8 @@
     "defaults": {
         "jsConfig": {
             "appName": "Sugar Crédito Maestro",
-            "productName": "creditoMaestroCRM",
-            "brandName": "creditoMaestroCRM",
+            "productName": "Sugar Crédito Maestro",
+            "brandName": "Sugar Crédito Maestro",
             "appBuild": "1",
             "appVersion": "1.0.0",
             "files": {
@@ -24,7 +24,7 @@
                 "teamId": ""
             },
             "android": {
-                "binaryName": "creditoMaestroCRMCRM"
+                "binaryName": "creditoMaestroCRM"
             }
         }
     },
